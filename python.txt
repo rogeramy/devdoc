@@ -4,3 +4,5 @@
   b、CP版本需要和python版本对应
   c、使用命令安装：pip install xxxx.whl
   d、使用pip install pymssql的方式安装会提示错误
+  
+  http://openrefine.org/
