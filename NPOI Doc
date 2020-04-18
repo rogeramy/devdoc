@@ -1,0 +1,22 @@
+
+how to download dll
+1.https://archive.codeplex.com/?p=npoi 点官网右上角download archive 下载完npoi.zip后 解压出现一个release文件夹 进去最新的文件夹 会有一个没有扩展名不知道是什么鬼的文件 勇敢地解压掉它 你会发现出来一堆dll 好了 可以愉快地调用了
+2.NeGet
+
+
+NPOI.DLL NPOI.POIFS OLE2/ActiveX文档属性读写库
+NPOI.DLL NPOI.DDF 微软Office Drawing读写库
+NPOI.DLL NPOI.HPSF OLE2/ActiveX文档读写库
+NPOI.DLL NPOI.HSSF 微软Excel BIFF(Excel 97-2003, doc)格式读写库
+NPOI.DLL NPOI.SS Excel公用接口及Excel公式计算引擎
+NPOI.DLL NPOI.Util 基础类库，提供了很多实用功能，可用于其他读写文件格式项目的开发
+NPOI.OOXML.DLL NPOI.XSSF Excel 2007(xlsx)格式读写库
+NPOI.OOXML.DLL NPOI.XWPF Word 2007(docx)格式读写库
+NPOI.OpenXml4Net.DLL NPOI.OpenXml4Net OpenXml底层zip包读写库
+NPOI.OpenXmlFormats.DLL NPOI.OpenXmlFormats 微软Office OpenXml对象关系库
+
+通常使用
+1.NPOI NPOI.HSSF
+2.NPOI.OOXML NPOI.XSSF
+3.NPOI.OpenXml4Net.DLL NPOI.OpenXml4Net OpenXml底层zip包读写库
+4.NPOI.OpenXmlFormats.DLL NPOI.OpenXmlFormats 微软Office OpenXml对象关系库
